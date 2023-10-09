@@ -1,2 +1,2 @@
 # Edatos_WBZ
-#### Creacion de repositorios
+#### Creacion del repositorios
